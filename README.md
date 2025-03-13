@@ -149,5 +149,7 @@ Manus AI exemplifies the tension between proprietary protection and open-source 
 
 ---
 https://chat.qwen.ai/s/3123f09e-80b2-4c58-8b38-e6249e15b2ba
+
 https://www.perplexity.ai/search/you-are-a-deep-thinking-ai-you-ccaOMLu0Rryds3LCpMAOSQ
+
 https://www.youtube.com/watch?v=VsJ2ALdZd5Q
