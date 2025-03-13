@@ -102,7 +102,6 @@ Manus competed with tools like *AutoFlow* and *TaskGenius* but lost traction due
 Manus AI exemplifies the tension between proprietary protection and open-source ethics in AI development. While its modular architecture showcased technical innovation, aggressive obfuscation and security flaws undermined its credibility. The case catalyzed stricter regulations (e.g., China’s escrow requirements) and shifted industry norms toward transparency. Future AI projects must balance defensive measures with ecosystem health to avoid Manus’ fate.  
 
 ---
-
 **References**  
 [1] https://www.oschina.net/news/338519  
 [2] https://www.datacamp.com/blog/manus-ai  
@@ -112,12 +111,8 @@ Manus AI exemplifies the tension between proprietary protection and open-source 
 [15] https://the-decoder.com/chinese-ai-agent-manus-uses-claude-sonnet-and-open-source-technology/  
 [16] https://dev.to/sayed_ali_alkamel/manus-ai-a-technical-deep-dive-into-chinas-first-autonomous-ai-agent-30d3  
 
-*(Word count: 3,850)*  
-
 ---
-
 **Appendix: Expanded Analysis of Code Obfuscation Impact**  
-*(Translated from Chinese sections)*  
 
 #### **Technical Debt & Maintenance Costs**  
 - **Reverse Engineering Challenges**: Despite triple obfuscation (89% identifier replacement, 38% control flow interference, AES-256 string encryption), vulnerabilities persisted due to exposed API endpoints and third-party dependency fingerprints [[3]].  
@@ -136,9 +131,7 @@ Manus AI exemplifies the tension between proprietary protection and open-source 
 - **Stifled Innovation**: New feature development slowed 2.3×, third-party integration costs rose 5× [[3]].  
 
 ---
-
 **Appendix: Claude 3.7 Sonnet vs. Qwen 2.5-Max**  
-*(Translated from Chinese sections)*  
 
 #### **Claude 3.7 Sonnet Advantages**  
 - **Hybrid Reasoning**: Dynamic "thinking budget" allocation enables 40% faster responses in standard mode [[1]].  
@@ -149,7 +142,6 @@ Manus AI exemplifies the tension between proprietary protection and open-source 
 - **Multimodal Support**: CIDEr 121.5 for image captioning, 5.8% WER for voice commands [[4]].  
 
 ---
-
 **Appendix: Manus’ Legal and Market Challenges**  
 *(Translated from Chinese sections)*  
 - **Anti-Competitive Claims**: China’s revised Anti-Unfair Competition Law scrutinized Manus’ obfuscation as a potential "technical barrier" [[3]].  
